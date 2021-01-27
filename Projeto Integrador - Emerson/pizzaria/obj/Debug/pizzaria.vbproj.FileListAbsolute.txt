@@ -1,0 +1,233 @@
+C:\Users\ALUNO\source\repos\pizzaria\pizzaria\bin\Debug\pizza.mdf
+C:\Users\ALUNO\source\repos\pizzaria\pizzaria\bin\Debug\pizza_log.ldf
+C:\Users\ALUNO\source\repos\pizzaria\pizzaria\bin\Debug\pizzaria.exe.config
+C:\Users\ALUNO\source\repos\pizzaria\pizzaria\bin\Debug\pizzaria.exe
+C:\Users\ALUNO\source\repos\pizzaria\pizzaria\bin\Debug\pizzaria.pdb
+C:\Users\ALUNO\source\repos\pizzaria\pizzaria\bin\Debug\pizzaria.xml
+C:\Users\ALUNO\source\repos\pizzaria\pizzaria\obj\Debug\pizzaria.vbprojAssemblyReference.cache
+C:\Users\ALUNO\source\repos\pizzaria\pizzaria\obj\Debug\pizzaria.Form1.resources
+C:\Users\ALUNO\source\repos\pizzaria\pizzaria\obj\Debug\pizzaria.Resources.resources
+C:\Users\ALUNO\source\repos\pizzaria\pizzaria\obj\Debug\pizzaria.vbproj.GenerateResource.cache
+C:\Users\ALUNO\source\repos\pizzaria\pizzaria\obj\Debug\pizzaria.vbproj.CoreCompileInputs.cache
+C:\Users\ALUNO\source\repos\pizzaria\pizzaria\obj\Debug\pizzaria.exe
+C:\Users\ALUNO\source\repos\pizzaria\pizzaria\obj\Debug\pizzaria.xml
+C:\Users\ALUNO\source\repos\pizzaria\pizzaria\obj\Debug\pizzaria.pdb
+C:\Users\ALUNO\source\repos\pizzaria\pizzaria\obj\Debug\pizzaria.consultaCli.resources
+C:\Users\ALUNO\source\repos\pizzaria\pizzaria\obj\Debug\pizzaria.frmclientes.resources
+C:\Users\ALUNO\source\repos\pizzaria\pizzaria\obj\Debug\pizzaria.frmprincipal.resources
+C:\Users\ALUNO\source\repos\pizzaria\pizzaria\obj\Debug\pizzaria.frmprodutos.resources
+C:\Users\ALUNO\source\repos\pizzaria\pizzaria\obj\Debug\pizzaria.pedidos.resources
+D:\pizzaria\pizzaria\bin\Debug\pizza.mdf
+D:\pizzaria\pizzaria\bin\Debug\pizza_log.ldf
+D:\pizzaria\pizzaria\bin\Debug\pizzaria.exe.config
+D:\pizzaria\pizzaria\bin\Debug\pizzaria.exe
+D:\pizzaria\pizzaria\bin\Debug\pizzaria.pdb
+D:\pizzaria\pizzaria\bin\Debug\pizzaria.xml
+D:\pizzaria\pizzaria\obj\Debug\pizzaria.vbprojAssemblyReference.cache
+D:\pizzaria\pizzaria\obj\Debug\pizzaria.consultaCli.resources
+D:\pizzaria\pizzaria\obj\Debug\pizzaria.Form1.resources
+D:\pizzaria\pizzaria\obj\Debug\pizzaria.frmclientes.resources
+D:\pizzaria\pizzaria\obj\Debug\pizzaria.frmprincipal.resources
+D:\pizzaria\pizzaria\obj\Debug\pizzaria.frmprodutos.resources
+D:\pizzaria\pizzaria\obj\Debug\pizzaria.Resources.resources
+D:\pizzaria\pizzaria\obj\Debug\pizzaria.pedidos.resources
+D:\pizzaria\pizzaria\obj\Debug\pizzaria.vbproj.GenerateResource.cache
+D:\pizzaria\pizzaria\obj\Debug\pizzaria.vbproj.CoreCompileInputs.cache
+D:\pizzaria\pizzaria\obj\Debug\pizzaria.exe
+D:\pizzaria\pizzaria\obj\Debug\pizzaria.xml
+D:\pizzaria\pizzaria\obj\Debug\pizzaria.pdb
+C:\Users\Sergi\OneDrive\Área de Trabalho\pizzaria\pizzaria\bin\Debug\pizza.mdf
+C:\Users\Sergi\OneDrive\Área de Trabalho\pizzaria\pizzaria\bin\Debug\pizza_log.ldf
+C:\Users\Sergi\OneDrive\Área de Trabalho\pizzaria\pizzaria\bin\Debug\pizzaria.exe.config
+C:\Users\Sergi\OneDrive\Área de Trabalho\pizzaria\pizzaria\bin\Debug\pizzaria.exe
+C:\Users\Sergi\OneDrive\Área de Trabalho\pizzaria\pizzaria\bin\Debug\pizzaria.pdb
+C:\Users\Sergi\OneDrive\Área de Trabalho\pizzaria\pizzaria\bin\Debug\pizzaria.xml
+C:\Users\Sergi\OneDrive\Área de Trabalho\pizzaria\pizzaria\obj\Debug\pizzaria.vbprojAssemblyReference.cache
+C:\Users\Sergi\OneDrive\Área de Trabalho\pizzaria\pizzaria\obj\Debug\pizzaria.consultaCli.resources
+C:\Users\Sergi\OneDrive\Área de Trabalho\pizzaria\pizzaria\obj\Debug\pizzaria.Form1.resources
+C:\Users\Sergi\OneDrive\Área de Trabalho\pizzaria\pizzaria\obj\Debug\pizzaria.frmclientes.resources
+C:\Users\Sergi\OneDrive\Área de Trabalho\pizzaria\pizzaria\obj\Debug\pizzaria.frmprincipal.resources
+C:\Users\Sergi\OneDrive\Área de Trabalho\pizzaria\pizzaria\obj\Debug\pizzaria.frmprodutos.resources
+C:\Users\Sergi\OneDrive\Área de Trabalho\pizzaria\pizzaria\obj\Debug\pizzaria.Resources.resources
+C:\Users\Sergi\OneDrive\Área de Trabalho\pizzaria\pizzaria\obj\Debug\pizzaria.pedidos.resources
+C:\Users\Sergi\OneDrive\Área de Trabalho\pizzaria\pizzaria\obj\Debug\pizzaria.vbproj.GenerateResource.cache
+C:\Users\Sergi\OneDrive\Área de Trabalho\pizzaria\pizzaria\obj\Debug\pizzaria.vbproj.CoreCompileInputs.cache
+C:\Users\Sergi\OneDrive\Área de Trabalho\pizzaria\pizzaria\obj\Debug\pizzaria.exe
+C:\Users\Sergi\OneDrive\Área de Trabalho\pizzaria\pizzaria\obj\Debug\pizzaria.xml
+C:\Users\Sergi\OneDrive\Área de Trabalho\pizzaria\pizzaria\obj\Debug\pizzaria.pdb
+C:\Users\Sergi\OneDrive\Área de Trabalho\pizzaria\pizzaria\obj\Debug\pizzaria.consultaProd.resources
+C:\Users\Sergi\OneDrive\Área de Trabalho\Estudo\pizzaria\pizzaria\bin\Debug\pizza.mdf
+C:\Users\Sergi\OneDrive\Área de Trabalho\Estudo\pizzaria\pizzaria\bin\Debug\pizza_log.ldf
+C:\Users\Sergi\OneDrive\Área de Trabalho\Estudo\pizzaria\pizzaria\bin\Debug\pizzaria.exe.config
+C:\Users\Sergi\OneDrive\Área de Trabalho\Estudo\pizzaria\pizzaria\bin\Debug\pizzaria.exe
+C:\Users\Sergi\OneDrive\Área de Trabalho\Estudo\pizzaria\pizzaria\bin\Debug\pizzaria.pdb
+C:\Users\Sergi\OneDrive\Área de Trabalho\Estudo\pizzaria\pizzaria\bin\Debug\pizzaria.xml
+C:\Users\Sergi\OneDrive\Área de Trabalho\Estudo\pizzaria\pizzaria\obj\Debug\pizzaria.vbprojAssemblyReference.cache
+C:\Users\Sergi\OneDrive\Área de Trabalho\Estudo\pizzaria\pizzaria\obj\Debug\pizzaria.consultaCli.resources
+C:\Users\Sergi\OneDrive\Área de Trabalho\Estudo\pizzaria\pizzaria\obj\Debug\pizzaria.consultaProd.resources
+C:\Users\Sergi\OneDrive\Área de Trabalho\Estudo\pizzaria\pizzaria\obj\Debug\pizzaria.Form1.resources
+C:\Users\Sergi\OneDrive\Área de Trabalho\Estudo\pizzaria\pizzaria\obj\Debug\pizzaria.frmclientes.resources
+C:\Users\Sergi\OneDrive\Área de Trabalho\Estudo\pizzaria\pizzaria\obj\Debug\pizzaria.frmprincipal.resources
+C:\Users\Sergi\OneDrive\Área de Trabalho\Estudo\pizzaria\pizzaria\obj\Debug\pizzaria.frmprodutos.resources
+C:\Users\Sergi\OneDrive\Área de Trabalho\Estudo\pizzaria\pizzaria\obj\Debug\pizzaria.Resources.resources
+C:\Users\Sergi\OneDrive\Área de Trabalho\Estudo\pizzaria\pizzaria\obj\Debug\pizzaria.pedidos.resources
+C:\Users\Sergi\OneDrive\Área de Trabalho\Estudo\pizzaria\pizzaria\obj\Debug\pizzaria.vbproj.GenerateResource.cache
+C:\Users\Sergi\OneDrive\Área de Trabalho\Estudo\pizzaria\pizzaria\obj\Debug\pizzaria.vbproj.CoreCompileInputs.cache
+C:\Users\Sergi\OneDrive\Área de Trabalho\Estudo\pizzaria\pizzaria\obj\Debug\pizzaria.exe
+C:\Users\Sergi\OneDrive\Área de Trabalho\Estudo\pizzaria\pizzaria\obj\Debug\pizzaria.xml
+C:\Users\Sergi\OneDrive\Área de Trabalho\Estudo\pizzaria\pizzaria\obj\Debug\pizzaria.pdb
+C:\Users\Sergi\OneDrive\Área de Trabalho\pizzaria\pizzaria\obj\Debug\pizzaria.formfornecedores.resources
+C:\Users\ALUNO\Desktop\PI\pizzaria\pizzaria\bin\Debug\pizza.mdf
+C:\Users\ALUNO\Desktop\PI\pizzaria\pizzaria\bin\Debug\pizza_log.ldf
+C:\Users\ALUNO\Desktop\PI\pizzaria\pizzaria\bin\Debug\pizzaria.exe.config
+C:\Users\ALUNO\Desktop\PI\pizzaria\pizzaria\bin\Debug\pizzaria.exe
+C:\Users\ALUNO\Desktop\PI\pizzaria\pizzaria\bin\Debug\pizzaria.pdb
+C:\Users\ALUNO\Desktop\PI\pizzaria\pizzaria\bin\Debug\pizzaria.xml
+C:\Users\ALUNO\Desktop\PI\pizzaria\pizzaria\obj\Debug\pizzaria.vbprojAssemblyReference.cache
+C:\Users\ALUNO\Desktop\PI\pizzaria\pizzaria\obj\Debug\pizzaria.consultaCli.resources
+C:\Users\ALUNO\Desktop\PI\pizzaria\pizzaria\obj\Debug\pizzaria.consultaProd.resources
+C:\Users\ALUNO\Desktop\PI\pizzaria\pizzaria\obj\Debug\pizzaria.Form1.resources
+C:\Users\ALUNO\Desktop\PI\pizzaria\pizzaria\obj\Debug\pizzaria.formfornecedores.resources
+C:\Users\ALUNO\Desktop\PI\pizzaria\pizzaria\obj\Debug\pizzaria.frmprincipal.resources
+C:\Users\ALUNO\Desktop\PI\pizzaria\pizzaria\obj\Debug\pizzaria.frmprodutos.resources
+C:\Users\ALUNO\Desktop\PI\pizzaria\pizzaria\obj\Debug\pizzaria.Resources.resources
+C:\Users\ALUNO\Desktop\PI\pizzaria\pizzaria\obj\Debug\pizzaria.vbproj.GenerateResource.cache
+C:\Users\ALUNO\Desktop\PI\pizzaria\pizzaria\obj\Debug\pizzaria.vbproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Desktop\PI\pizzaria\pizzaria\obj\Debug\pizzaria.exe
+C:\Users\ALUNO\Desktop\PI\pizzaria\pizzaria\obj\Debug\pizzaria.xml
+C:\Users\ALUNO\Desktop\PI\pizzaria\pizzaria\obj\Debug\pizzaria.pdb
+C:\Users\LUIZ\Desktop\PI\pizzaria\pizzaria\obj\Debug\pizzaria.vbprojAssemblyReference.cache
+C:\Users\LUIZ\Desktop\PI\pizzaria\pizzaria\obj\Debug\pizzaria.consultaProd.resources
+C:\Users\LUIZ\Desktop\PI\pizzaria\pizzaria\obj\Debug\pizzaria.Form1.resources
+C:\Users\LUIZ\Desktop\PI\pizzaria\pizzaria\obj\Debug\pizzaria.formfornecedores.resources
+C:\Users\LUIZ\Desktop\PI\pizzaria\pizzaria\obj\Debug\pizzaria.frmprincipal.resources
+C:\Users\LUIZ\Desktop\PI\pizzaria\pizzaria\obj\Debug\pizzaria.frmprodutos.resources
+C:\Users\LUIZ\Desktop\PI\pizzaria\pizzaria\obj\Debug\pizzaria.Resources.resources
+C:\Users\LUIZ\Desktop\PI\pizzaria\pizzaria\obj\Debug\pizzaria.vbproj.GenerateResource.cache
+C:\Users\LUIZ\Desktop\PI\pizzaria\pizzaria\obj\Debug\pizzaria.vbproj.CoreCompileInputs.cache
+C:\Users\LUIZ\Desktop\PI\pizzaria\pizzaria\obj\Debug\pizzaria.exe
+C:\Users\LUIZ\Desktop\PI\pizzaria\pizzaria\obj\Debug\pizzaria.xml
+C:\Users\LUIZ\Desktop\PI\pizzaria\pizzaria\obj\Debug\pizzaria.pdb
+C:\Users\LUIZ\Desktop\PI\pizzaria\pizzaria\bin\Debug\pizza.mdf
+C:\Users\LUIZ\Desktop\PI\pizzaria\pizzaria\bin\Debug\pizza_log.ldf
+C:\Users\LUIZ\Desktop\PI\pizzaria\pizzaria\bin\Debug\pizzaria.exe.config
+C:\Users\LUIZ\Desktop\PI\pizzaria\pizzaria\bin\Debug\pizzaria.exe
+C:\Users\LUIZ\Desktop\PI\pizzaria\pizzaria\bin\Debug\pizzaria.pdb
+C:\Users\LUIZ\Desktop\PI\pizzaria\pizzaria\bin\Debug\pizzaria.xml
+C:\Users\LUIZ\Desktop\PI\pizzaria\pizzaria\obj\Debug\pizzaria.frmSaida.resources
+C:\Users\ALUNO\Desktop\luiz\PI\pizzaria\pizzaria\bin\Debug\pizza.mdf
+C:\Users\ALUNO\Desktop\luiz\PI\pizzaria\pizzaria\bin\Debug\pizza_log.ldf
+C:\Users\ALUNO\Desktop\luiz\PI\pizzaria\pizzaria\bin\Debug\pizzaria.exe.config
+C:\Users\ALUNO\Desktop\luiz\PI\pizzaria\pizzaria\bin\Debug\pizzaria.exe
+C:\Users\ALUNO\Desktop\luiz\PI\pizzaria\pizzaria\bin\Debug\pizzaria.pdb
+C:\Users\ALUNO\Desktop\luiz\PI\pizzaria\pizzaria\bin\Debug\pizzaria.xml
+C:\Users\ALUNO\Desktop\luiz\PI\pizzaria\pizzaria\obj\Debug\pizzaria.vbprojAssemblyReference.cache
+C:\Users\ALUNO\Desktop\luiz\PI\pizzaria\pizzaria\obj\Debug\pizzaria.consultaProd.resources
+C:\Users\ALUNO\Desktop\luiz\PI\pizzaria\pizzaria\obj\Debug\pizzaria.Form1.resources
+C:\Users\ALUNO\Desktop\luiz\PI\pizzaria\pizzaria\obj\Debug\pizzaria.formfornecedores.resources
+C:\Users\ALUNO\Desktop\luiz\PI\pizzaria\pizzaria\obj\Debug\pizzaria.frmprincipal.resources
+C:\Users\ALUNO\Desktop\luiz\PI\pizzaria\pizzaria\obj\Debug\pizzaria.frmprodutos.resources
+C:\Users\ALUNO\Desktop\luiz\PI\pizzaria\pizzaria\obj\Debug\pizzaria.frmSaida.resources
+C:\Users\ALUNO\Desktop\luiz\PI\pizzaria\pizzaria\obj\Debug\pizzaria.Resources.resources
+C:\Users\ALUNO\Desktop\luiz\PI\pizzaria\pizzaria\obj\Debug\pizzaria.vbproj.GenerateResource.cache
+C:\Users\ALUNO\Desktop\luiz\PI\pizzaria\pizzaria\obj\Debug\pizzaria.vbproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Desktop\luiz\PI\pizzaria\pizzaria\obj\Debug\pizzaria.exe
+C:\Users\ALUNO\Desktop\luiz\PI\pizzaria\pizzaria\obj\Debug\pizzaria.xml
+C:\Users\ALUNO\Desktop\luiz\PI\pizzaria\pizzaria\obj\Debug\pizzaria.pdb
+C:\Users\LUIZ\Desktop\luiz\PI\pizzaria\pizzaria\bin\Debug\pizza.mdf
+C:\Users\LUIZ\Desktop\luiz\PI\pizzaria\pizzaria\bin\Debug\pizza_log.ldf
+C:\Users\LUIZ\Desktop\luiz\PI\pizzaria\pizzaria\bin\Debug\pizzaria.exe.config
+C:\Users\LUIZ\Desktop\luiz\PI\pizzaria\pizzaria\bin\Debug\pizzaria.exe
+C:\Users\LUIZ\Desktop\luiz\PI\pizzaria\pizzaria\bin\Debug\pizzaria.pdb
+C:\Users\LUIZ\Desktop\luiz\PI\pizzaria\pizzaria\bin\Debug\pizzaria.xml
+C:\Users\LUIZ\Desktop\luiz\PI\pizzaria\pizzaria\obj\Debug\pizzaria.vbprojAssemblyReference.cache
+C:\Users\LUIZ\Desktop\luiz\PI\pizzaria\pizzaria\obj\Debug\pizzaria.consultaProd.resources
+C:\Users\LUIZ\Desktop\luiz\PI\pizzaria\pizzaria\obj\Debug\pizzaria.Form1.resources
+C:\Users\LUIZ\Desktop\luiz\PI\pizzaria\pizzaria\obj\Debug\pizzaria.formfornecedores.resources
+C:\Users\LUIZ\Desktop\luiz\PI\pizzaria\pizzaria\obj\Debug\pizzaria.frmprincipal.resources
+C:\Users\LUIZ\Desktop\luiz\PI\pizzaria\pizzaria\obj\Debug\pizzaria.frmprodutos.resources
+C:\Users\LUIZ\Desktop\luiz\PI\pizzaria\pizzaria\obj\Debug\pizzaria.frmSaida.resources
+C:\Users\LUIZ\Desktop\luiz\PI\pizzaria\pizzaria\obj\Debug\pizzaria.Resources.resources
+C:\Users\LUIZ\Desktop\luiz\PI\pizzaria\pizzaria\obj\Debug\pizzaria.vbproj.GenerateResource.cache
+C:\Users\LUIZ\Desktop\luiz\PI\pizzaria\pizzaria\obj\Debug\pizzaria.vbproj.CoreCompileInputs.cache
+C:\Users\LUIZ\Desktop\luiz\PI\pizzaria\pizzaria\obj\Debug\pizzaria.exe
+C:\Users\LUIZ\Desktop\luiz\PI\pizzaria\pizzaria\obj\Debug\pizzaria.xml
+C:\Users\LUIZ\Desktop\luiz\PI\pizzaria\pizzaria\obj\Debug\pizzaria.pdb
+C:\Users\LUIZ\Desktop\luiz\PI\pizzaria\pizzaria\obj\Debug\pizzaria.frmGraficos.resources
+C:\Users\emers\OneDrive\Área de Trabalho\pizzaria\pizzaria\bin\Debug\pizza.mdf
+C:\Users\emers\OneDrive\Área de Trabalho\pizzaria\pizzaria\bin\Debug\pizza_log.ldf
+C:\Users\emers\OneDrive\Área de Trabalho\pizzaria\pizzaria\bin\Debug\pizzaria.exe.config
+C:\Users\emers\OneDrive\Área de Trabalho\pizzaria\pizzaria\bin\Debug\pizzaria.exe
+C:\Users\emers\OneDrive\Área de Trabalho\pizzaria\pizzaria\bin\Debug\pizzaria.pdb
+C:\Users\emers\OneDrive\Área de Trabalho\pizzaria\pizzaria\bin\Debug\pizzaria.xml
+C:\Users\emers\OneDrive\Área de Trabalho\pizzaria\pizzaria\obj\Debug\pizzaria.vbprojAssemblyReference.cache
+C:\Users\emers\OneDrive\Área de Trabalho\pizzaria\pizzaria\obj\Debug\pizzaria.consultaProd.resources
+C:\Users\emers\OneDrive\Área de Trabalho\pizzaria\pizzaria\obj\Debug\pizzaria.Form1.resources
+C:\Users\emers\OneDrive\Área de Trabalho\pizzaria\pizzaria\obj\Debug\pizzaria.formfornecedores.resources
+C:\Users\emers\OneDrive\Área de Trabalho\pizzaria\pizzaria\obj\Debug\pizzaria.frmprincipal.resources
+C:\Users\emers\OneDrive\Área de Trabalho\pizzaria\pizzaria\obj\Debug\pizzaria.frmprodutos.resources
+C:\Users\emers\OneDrive\Área de Trabalho\pizzaria\pizzaria\obj\Debug\pizzaria.frmSaida.resources
+C:\Users\emers\OneDrive\Área de Trabalho\pizzaria\pizzaria\obj\Debug\pizzaria.Resources.resources
+C:\Users\emers\OneDrive\Área de Trabalho\pizzaria\pizzaria\obj\Debug\pizzaria.vbproj.GenerateResource.cache
+C:\Users\emers\OneDrive\Área de Trabalho\pizzaria\pizzaria\obj\Debug\pizzaria.vbproj.CoreCompileInputs.cache
+C:\Users\emers\OneDrive\Área de Trabalho\pizzaria\pizzaria\obj\Debug\pizzaria.exe
+C:\Users\emers\OneDrive\Área de Trabalho\pizzaria\pizzaria\obj\Debug\pizzaria.xml
+C:\Users\emers\OneDrive\Área de Trabalho\pizzaria\pizzaria\obj\Debug\pizzaria.pdb
+C:\Users\emers\OneDrive\Área de Trabalho\Projeto Integrador - Emerson\pizzaria\obj\Debug\pizzaria.vbprojAssemblyReference.cache
+C:\Users\emers\OneDrive\Área de Trabalho\Projeto Integrador - Emerson\pizzaria\obj\Debug\pizzaria.consultaProd.resources
+C:\Users\emers\OneDrive\Área de Trabalho\Projeto Integrador - Emerson\pizzaria\obj\Debug\pizzaria.Form1.resources
+C:\Users\emers\OneDrive\Área de Trabalho\Projeto Integrador - Emerson\pizzaria\obj\Debug\pizzaria.formfornecedores.resources
+C:\Users\emers\OneDrive\Área de Trabalho\Projeto Integrador - Emerson\pizzaria\obj\Debug\pizzaria.frmprincipal.resources
+C:\Users\emers\OneDrive\Área de Trabalho\Projeto Integrador - Emerson\pizzaria\obj\Debug\pizzaria.frmprodutos.resources
+C:\Users\emers\OneDrive\Área de Trabalho\Projeto Integrador - Emerson\pizzaria\obj\Debug\pizzaria.frmSaida.resources
+C:\Users\emers\OneDrive\Área de Trabalho\Projeto Integrador - Emerson\pizzaria\obj\Debug\pizzaria.vbproj.GenerateResource.cache
+C:\Users\emers\OneDrive\Área de Trabalho\Projeto Integrador - Emerson\pizzaria\obj\Debug\pizzaria.exe
+C:\Users\emers\OneDrive\Área de Trabalho\Projeto Integrador - Emerson\pizzaria\obj\Debug\pizzaria.xml
+C:\Users\emers\OneDrive\Área de Trabalho\Projeto Integrador - Emerson\pizzaria\obj\Debug\pizzaria.pdb
+C:\Users\emers\OneDrive\Área de Trabalho\Projeto Integrador - Emerson\pizzaria\bin\Debug\pizza.mdf
+C:\Users\emers\OneDrive\Área de Trabalho\Projeto Integrador - Emerson\pizzaria\bin\Debug\pizza_log.ldf
+C:\Users\emers\OneDrive\Área de Trabalho\Projeto Integrador - Emerson\pizzaria\bin\Debug\pizzaria.exe.config
+C:\Users\emers\OneDrive\Área de Trabalho\Projeto Integrador - Emerson\pizzaria\bin\Debug\pizzaria.exe
+C:\Users\emers\OneDrive\Área de Trabalho\Projeto Integrador - Emerson\pizzaria\bin\Debug\pizzaria.pdb
+C:\Users\emers\OneDrive\Área de Trabalho\Projeto Integrador - Emerson\pizzaria\bin\Debug\pizzaria.xml
+C:\Users\emers\OneDrive\Área de Trabalho\Projeto Integrador - Emerson\pizzaria\obj\Debug\pizzaria.Resources.resources
+C:\Users\emers\OneDrive\Área de Trabalho\Projeto Integrador - Emerson\pizzaria\obj\Debug\pizzaria.vbproj.CoreCompileInputs.cache
+C:\Users\emers\OneDrive\Área de Trabalho\Projeto Integrador - Emerson\Projeto Integrador - Emerson\pizzaria\bin\Debug\pizza.mdf
+C:\Users\emers\OneDrive\Área de Trabalho\Projeto Integrador - Emerson\Projeto Integrador - Emerson\pizzaria\bin\Debug\pizza_log.ldf
+C:\Users\emers\OneDrive\Área de Trabalho\Projeto Integrador - Emerson\Projeto Integrador - Emerson\pizzaria\bin\Debug\pizzaria.exe.config
+C:\Users\emers\OneDrive\Área de Trabalho\Projeto Integrador - Emerson\Projeto Integrador - Emerson\pizzaria\bin\Debug\pizzaria.exe
+C:\Users\emers\OneDrive\Área de Trabalho\Projeto Integrador - Emerson\Projeto Integrador - Emerson\pizzaria\bin\Debug\pizzaria.pdb
+C:\Users\emers\OneDrive\Área de Trabalho\Projeto Integrador - Emerson\Projeto Integrador - Emerson\pizzaria\bin\Debug\pizzaria.xml
+C:\Users\emers\OneDrive\Área de Trabalho\Projeto Integrador - Emerson\Projeto Integrador - Emerson\pizzaria\obj\Debug\pizzaria.vbprojAssemblyReference.cache
+C:\Users\emers\OneDrive\Área de Trabalho\Projeto Integrador - Emerson\Projeto Integrador - Emerson\pizzaria\obj\Debug\pizzaria.consultaProd.resources
+C:\Users\emers\OneDrive\Área de Trabalho\Projeto Integrador - Emerson\Projeto Integrador - Emerson\pizzaria\obj\Debug\pizzaria.Form1.resources
+C:\Users\emers\OneDrive\Área de Trabalho\Projeto Integrador - Emerson\Projeto Integrador - Emerson\pizzaria\obj\Debug\pizzaria.formfornecedores.resources
+C:\Users\emers\OneDrive\Área de Trabalho\Projeto Integrador - Emerson\Projeto Integrador - Emerson\pizzaria\obj\Debug\pizzaria.frmprincipal.resources
+C:\Users\emers\OneDrive\Área de Trabalho\Projeto Integrador - Emerson\Projeto Integrador - Emerson\pizzaria\obj\Debug\pizzaria.frmprodutos.resources
+C:\Users\emers\OneDrive\Área de Trabalho\Projeto Integrador - Emerson\Projeto Integrador - Emerson\pizzaria\obj\Debug\pizzaria.frmSaida.resources
+C:\Users\emers\OneDrive\Área de Trabalho\Projeto Integrador - Emerson\Projeto Integrador - Emerson\pizzaria\obj\Debug\pizzaria.Resources.resources
+C:\Users\emers\OneDrive\Área de Trabalho\Projeto Integrador - Emerson\Projeto Integrador - Emerson\pizzaria\obj\Debug\pizzaria.vbproj.GenerateResource.cache
+C:\Users\emers\OneDrive\Área de Trabalho\Projeto Integrador - Emerson\Projeto Integrador - Emerson\pizzaria\obj\Debug\pizzaria.vbproj.CoreCompileInputs.cache
+C:\Users\emers\OneDrive\Área de Trabalho\Projeto Integrador - Emerson\Projeto Integrador - Emerson\pizzaria\obj\Debug\pizzaria.exe
+C:\Users\emers\OneDrive\Área de Trabalho\Projeto Integrador - Emerson\Projeto Integrador - Emerson\pizzaria\obj\Debug\pizzaria.xml
+C:\Users\emers\OneDrive\Área de Trabalho\Projeto Integrador - Emerson\Projeto Integrador - Emerson\pizzaria\obj\Debug\pizzaria.pdb
+C:\Users\emers\OneDrive\Área de Trabalho\Projeto Integrador - Emerson2\Projeto Integrador - Emerson\pizzaria\bin\Debug\pizza.mdf
+C:\Users\emers\OneDrive\Área de Trabalho\Projeto Integrador - Emerson2\Projeto Integrador - Emerson\pizzaria\bin\Debug\pizza_log.ldf
+C:\Users\emers\OneDrive\Área de Trabalho\Projeto Integrador - Emerson2\Projeto Integrador - Emerson\pizzaria\bin\Debug\pizzaria.exe.config
+C:\Users\emers\OneDrive\Área de Trabalho\Projeto Integrador - Emerson2\Projeto Integrador - Emerson\pizzaria\bin\Debug\pizzaria.exe
+C:\Users\emers\OneDrive\Área de Trabalho\Projeto Integrador - Emerson2\Projeto Integrador - Emerson\pizzaria\bin\Debug\pizzaria.pdb
+C:\Users\emers\OneDrive\Área de Trabalho\Projeto Integrador - Emerson2\Projeto Integrador - Emerson\pizzaria\bin\Debug\pizzaria.xml
+C:\Users\emers\OneDrive\Área de Trabalho\Projeto Integrador - Emerson2\Projeto Integrador - Emerson\pizzaria\obj\Debug\pizzaria.vbprojAssemblyReference.cache
+C:\Users\emers\OneDrive\Área de Trabalho\Projeto Integrador - Emerson2\Projeto Integrador - Emerson\pizzaria\obj\Debug\pizzaria.consultaForn.resources
+C:\Users\emers\OneDrive\Área de Trabalho\Projeto Integrador - Emerson2\Projeto Integrador - Emerson\pizzaria\obj\Debug\pizzaria.consultaProd.resources
+C:\Users\emers\OneDrive\Área de Trabalho\Projeto Integrador - Emerson2\Projeto Integrador - Emerson\pizzaria\obj\Debug\pizzaria.Form1.resources
+C:\Users\emers\OneDrive\Área de Trabalho\Projeto Integrador - Emerson2\Projeto Integrador - Emerson\pizzaria\obj\Debug\pizzaria.formfornecedores.resources
+C:\Users\emers\OneDrive\Área de Trabalho\Projeto Integrador - Emerson2\Projeto Integrador - Emerson\pizzaria\obj\Debug\pizzaria.frmprincipal.resources
+C:\Users\emers\OneDrive\Área de Trabalho\Projeto Integrador - Emerson2\Projeto Integrador - Emerson\pizzaria\obj\Debug\pizzaria.frmprodutos.resources
+C:\Users\emers\OneDrive\Área de Trabalho\Projeto Integrador - Emerson2\Projeto Integrador - Emerson\pizzaria\obj\Debug\pizzaria.frmSaida.resources
+C:\Users\emers\OneDrive\Área de Trabalho\Projeto Integrador - Emerson2\Projeto Integrador - Emerson\pizzaria\obj\Debug\pizzaria.Resources.resources
+C:\Users\emers\OneDrive\Área de Trabalho\Projeto Integrador - Emerson2\Projeto Integrador - Emerson\pizzaria\obj\Debug\pizzaria.vbproj.GenerateResource.cache
+C:\Users\emers\OneDrive\Área de Trabalho\Projeto Integrador - Emerson2\Projeto Integrador - Emerson\pizzaria\obj\Debug\pizzaria.vbproj.CoreCompileInputs.cache
+C:\Users\emers\OneDrive\Área de Trabalho\Projeto Integrador - Emerson2\Projeto Integrador - Emerson\pizzaria\obj\Debug\pizzaria.exe
+C:\Users\emers\OneDrive\Área de Trabalho\Projeto Integrador - Emerson2\Projeto Integrador - Emerson\pizzaria\obj\Debug\pizzaria.xml
+C:\Users\emers\OneDrive\Área de Trabalho\Projeto Integrador - Emerson2\Projeto Integrador - Emerson\pizzaria\obj\Debug\pizzaria.pdb
